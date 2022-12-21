@@ -91,7 +91,7 @@ p {
     justify-content: center;
     padding-top: 100px;
     height: 750px;
-    background:#2a2e48 url("../img/intro-bg.jpg") center no-repeat;
+    background:#2a2e48 url("../img/intro-bg-min.jpg") center no-repeat;
     background-size: cover;
 }
 .intro__inner {
